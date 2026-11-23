@@ -68,6 +68,8 @@ Other details:
 
 ## Screenshots
 
+The screenshots were taken on my own home network. I removed the sample router (192.168.1.1) and added my real router (192.168.1.254), so it has device ID 6. The printer address 192.168.1.250 is not used in my network on purpose, to show how an OFFLINE device looks.
+
 Menu and device list (option 1):
 
 ![Menu and devices](Screenshots/menu_devices.png)
